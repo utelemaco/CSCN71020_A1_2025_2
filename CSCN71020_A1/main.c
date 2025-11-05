@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//This is a nice main.c
 void printWelcomeMenu();
 void printOptions();
 void add();
